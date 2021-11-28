@@ -27,7 +27,11 @@ li{
     margin-left: auto;
     margin-right: auto;
     height: auto;
-    width: auto;
+    width: 80%;
+}
+
+.border{
+    border: 15px groove #b2ad7f;
 }
 
 .size{
