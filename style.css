@@ -1,6 +1,7 @@
 *{
     background-color: #6b5b95;
     font-family: verdana, sans-serif;
+    border: 2px solid red;
 }
 
 h1,
@@ -16,6 +17,11 @@ li,
 p{
     color: #a2b9bc;
 }
+
+li:hover {
+    color: black;
+    font-size: 30px;
+  }
 
 li{
     font-size: 20px;
